@@ -11,3 +11,4 @@ Meu nome é Alan Marques, moro em Suzano/SP 🇧🇷
 
 ## Contato
 - linkedin.com/in/alan-marques-alvarenga-221808110
+- alan.marque0308@gmail.com

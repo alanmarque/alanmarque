@@ -5,7 +5,9 @@ Meu nome é Alan Marques, moro em Suzano/SP 🇧🇷
 - 3° Semestre de Sistemas de Informação - Impacta Tecnologia
 - Auxiliar de TI - Expresso Rio Vermelho
 
-## Skills
+## Habilidades
 - Python
 - SQL Server
 
+## Contato
+- linkedin.com/in/alan-marques-alvarenga-221808110

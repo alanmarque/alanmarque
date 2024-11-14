@@ -1,7 +1,3 @@
-### Olá Mundo! 👋
-
-Meu nome é Alan Marques, moro em Suzano/SP 🇧🇷
-
 
 ## Habilidades
 - Azure
